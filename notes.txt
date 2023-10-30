@@ -1,0 +1,3 @@
+HMLHTTP Requests
+step1:-create a XHR Object
+XHR=xmlhttprequest
